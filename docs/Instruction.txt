@@ -1,0 +1,3 @@
+cd C:\Users\cheta\Desktop\College\Minor_Project\Minor_project\Scripts
+
+streamlit run app.py
